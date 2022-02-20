@@ -3,7 +3,6 @@
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 import Main from "./components/main/main.vue";
 
 export default {
@@ -13,3 +12,10 @@ export default {
   }
 }
 </script>
+
+<style>
+body{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+</style>
